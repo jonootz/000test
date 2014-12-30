@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -13,14 +13,14 @@
     Link="/Content/A_Introduction Topics/DropDowns.htm" />
   <TocEntry
     Title="Links and Lists"
-    Link="/Content/B_Links and Lists/LinksAndLists.htm"
+    Link="/Content/B Topics with Links/LinksAndLists.htm"
     StartSection="false">
     <TocEntry
       Title="Links"
-      Link="/Content/B_Links and Lists/Links.htm" />
+      Link="/Content/B Topics with Links/Links.htm" />
     <TocEntry
       Title="Lists"
-      Link="/Content/B_Links and Lists/Lists.htm" />
+      Link="/Content/B Topics with Links/Lists.htm" />
   </TocEntry>
   <TocEntry
     Title="Conditions, Notes, and Tables"

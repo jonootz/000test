@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -79,7 +79,7 @@
     PageNumberFormat="decimal"></TocEntry>
   <TocEntry
     Title="Lists"
-    Link="/Content/B_Links and Lists/Lists.htm"></TocEntry>
+    Link="/Content/B Topics with Links/Lists.htm"></TocEntry>
   <TocEntry
     Title="CHAPTER 3"
     Link="/Content/Print Only Topics/ChapterNumber.htm"
