@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Links and Footnotes"
+    Link="/Content/B Topics with Links/Links.htm" />
+  <TocEntry
+    Title="Links and Lists"
+    Link="/Content/B Topics with Links/LinksAndLists.htm" />
+  <TocEntry
+    Title="Lists (Conditioned for Online and User Guide A)"
+    Link="/Content/B Topics with Links/Lists.htm" />
+</CatapultToc>
