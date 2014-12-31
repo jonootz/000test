@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>Here is some general text for a set of steps. Replace this with your own content.</li>
+            <li>
+                <p>Here is some general text for a set of steps. Replace this with your own content.</p>
+                <p>
+                    <img src="../Images/Image.png" alt="" class="SeventyFivePercent" />
+                </p>
+                <p class="Figure" MadCap:conditions="General.PDF">Figure caption.</p>
+            </li>
+            <li>Here is some general text for a set of steps. Replace this with your own content.</li>
+            <li>Here is some general text for a set of steps. Replace this with your own content.</li>
+            <li>Here is some general text for a set of steps. Replace this with your own content.</li>
+        </ol>
+    </body>
+</html>
